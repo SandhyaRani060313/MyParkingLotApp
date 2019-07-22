@@ -1,0 +1,8 @@
+create_parking_lot 3
+create_parking_lot 4
+park AP315467 white
+park AP345677 white
+status
+leave 4
+leave 2
+park AP346644 white
